@@ -1,4 +1,4 @@
-# Narwal dashboard
+# Narwal Dashboard (Placeholder)
 
 This repository is currently a placeholder. It has no committed dashboard implementation, source code, datasets, or validated results.
 
